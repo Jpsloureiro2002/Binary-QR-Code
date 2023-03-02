@@ -27,3 +27,18 @@ pip install ctypes
 - Improve file creation code
 
 # Example
+<h2>File Example</h2>
+
+![Not Found](https://raw.githubusercontent.com/Jpsloureiro2002/Binary-QR-Code/main/App/Example/File_py_ex.jpg)
+
+<h2>Popup Example</h2>
+
+![Not Found](https://raw.githubusercontent.com/Jpsloureiro2002/Binary-QR-Code/main/App/Example/Msg-pop_example.jpg)
+
+<h2>Open .exe Files Example</h2>
+
+![Not Found](https://raw.githubusercontent.com/Jpsloureiro2002/Binary-QR-Code/main/App/Example/exe-open_ex.jpg)
+
+<h2>URL Example</h2>
+
+![Not Found](https://raw.githubusercontent.com/Jpsloureiro2002/Binary-QR-Code/main/App/Example/url_ex.jpg)
