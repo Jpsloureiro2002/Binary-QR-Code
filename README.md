@@ -2,7 +2,7 @@
 Generator and decompiler of a binary image, with basic cryptography, and with the compiler with in built commands.
 
 # How it works:
-- Generates a 160x160 .gif image with the conversion of characters in ASSCI to binary that will be reperesented by white(0) and black(1) pixels
+- Generates a 160x160 .gif image with the conversion of characters in ASCII to binary that will be reperesented by white(0) and black(1) pixels
 - Decompile the image back to text
 - The decompiler can also Compile commands for example if at the beginning of the text is file:[py] it will create a file output_0.py
 - All characters have an 8 bit binary match which can be re-arranged to "encrypt" the output
