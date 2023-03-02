@@ -1,6 +1,13 @@
 # Binary-QR-Code
 Generator and decompiler of a binary image, with basic cryptography, and with the compiler with in built commands.
 
+# What you need
+- You must first install PILLOW, TKINTER, CTYPES
+
+pip install tkinter<br>
+pip install pillow<br>
+pip install ctypes
+
 # How it works:
 - Generates a 160x160 .gif image with the conversion of characters in ASCII to binary that will be reperesented by white(0) and black(1) pixels
 - Decompile the image back to text
