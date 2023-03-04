@@ -31,9 +31,17 @@ pip install ctypes
 
 ![Not Found](https://raw.githubusercontent.com/Jpsloureiro2002/Binary-QR-Code/main/App/Example/File_py_ex.jpg)
 
+<h5>Image output</h5>
+
+![Not Found](https://raw.githubusercontent.com/Jpsloureiro2002/Binary-QR-Code/main/App/BinaryCode/File_py_Ex.gif)
+
 <h2>Popup Example</h2>
 
 ![Not Found](https://raw.githubusercontent.com/Jpsloureiro2002/Binary-QR-Code/main/App/Example/Msg-pop_example.jpg)
+
+<h5>Image output</h5>
+
+![Not Found](https://raw.githubusercontent.com/Jpsloureiro2002/Binary-QR-Code/main/App/BinaryCode/Popup_Ex.gif)
 
 <h2>Open .exe Files Example</h2>
 
